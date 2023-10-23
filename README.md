@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+  - PropositionsLIVE, a Java Program with GUI designed for evaluating propositional logic
+  - Portfolio 2.0 with Next.js & Framer Motion
+  - Stevens M&T Website
+- 🌱 I’m currently learning ...
+  - SQL, Postgres, Next.js, Mantine, etc.
+- 😄 Pronouns: he/him!
+- ⚡ Fun fact: I have a LOT of hobbies
+
 <!--
 **alexanderjalexander/alexanderjalexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
