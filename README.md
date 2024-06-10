@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on ...
   - Stevens M&T Website, built with Next.js, Mantine, and more
-  - Portfolio 2.0, made with Next.js and Neon PostgreSQL
   - PropositionsLIVE, a Java Program with GUI designed for evaluating propositional logic
 - 🌱 I’m currently learning ...
   - SQL, Postgres, Next.js, Mantine, Tailwind, PostCSS, etc.
