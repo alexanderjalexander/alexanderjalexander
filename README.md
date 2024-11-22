@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - Stevens M&T Website, built with Next.js, Mantine, and more
-  - PropositionsLIVE, a Java Program with GUI designed for evaluating propositional logic
+  - My portfolio website! Constantly updating it with projects and other things :)
+  - Various other school projects and web development projects
+  - An NLP Multi-Emotion Sentiment Analysis project
 - 🌱 I’m currently learning ...
-  - SQL, Postgres, Next.js, Mantine, Tailwind, PostCSS, etc.
+  - PostgreSQL, Redis, Next.js, Tailwind, TensorFlow, etc.
 - 😄 Pronouns: he/him!
 - ⚡ Fun fact: I have a LOT of hobbies
   - Piano, Trumpet, Esports, Sim Racing, Video Editing, Motion Graphics, Graphic Design, etc.
