@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - My portfolio website! Constantly updating it with projects and other things :)
+  - My portfolio website! Constantly updating it with projects, videos and other things :)
+  - Web development volunteer experience with Life Skills Software
+  - Tons and tons of Python programming
+  - Many different video editing projects
   - Various other school projects and web development projects
-  - An NLP Multi-Emotion Sentiment Analysis project
 - 🌱 I’m currently learning ...
-  - PostgreSQL, Redis, Next.js, Tailwind, TensorFlow, etc.
-- 😄 Pronouns: he/him!
+  - Snowflake SQL, Bash, Python, Redis, Next.js, Tailwind, TensorFlow, etc.
+  - SSH connections, as well as RDP!
+- 😄 Pronouns: he/him/his!
 - ⚡ Fun fact: I have a LOT of hobbies
   - Piano, Trumpet, Esports, Sim Racing, Video Editing, Motion Graphics, Graphic Design, etc.
 
