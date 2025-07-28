@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning ...
   - Snowflake SQL, Bash, Python, Redis, Next.js, Tailwind, TensorFlow, etc.
   - SSH connections, as well as RDP!
+  - In my first Masters semester this Fall 2025:
+    - Computer Vision, Advanced DBMS, Adv Programming in a Unix Environment, Machine Learning Fundamentals
 - 😄 Pronouns: he/him/his!
 - ⚡ Fun fact: I have a LOT of hobbies
   - Piano, Trumpet, Esports, Sim Racing, Video Editing, Motion Graphics, Graphic Design, etc.
