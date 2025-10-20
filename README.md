@@ -8,9 +8,9 @@
   - Various other school projects and web development projects
 - 🌱 I’m currently learning ...
   - Snowflake SQL, Bash, Python, Redis, Next.js, Tailwind, TensorFlow, etc.
-  - SSH connections, as well as RDP!
+  - Docker & Docker Compose, as well as Traefik
   - In my first Masters semester this Fall 2025:
-    - Computer Vision, Advanced DBMS, Adv Programming in a Unix Environment, Machine Learning Fundamentals
+    - Computer Vision, Advanced DBMS, Adv Programming in a Unix Environment, DevOps
 - 😄 Pronouns: he/him/his!
 - ⚡ Fun fact: I have a LOT of hobbies
   - Piano, Trumpet, Esports, Sim Racing, Video Editing, Motion Graphics, Graphic Design, etc.
