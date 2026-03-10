@@ -4,7 +4,7 @@
   - My portfolio website! Constantly updating it with projects, videos and other things :)
   - NVIDIA GPU programs with CUDA Toolkit
   - Node.js package development for TA grading processes
-  - GitHub Copilot and Claude, experimenting with AI assistents/agents
+  - GitHub Copilot and Claude, experimenting with AI assistants/agents
   - Many different video editing projects, some of which are commissions for various cool people 👀
   - Other school projects
 - 🌱 I’m currently learning ...
