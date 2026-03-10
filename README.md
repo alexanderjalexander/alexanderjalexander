@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on or experimenting with...
   - My portfolio website! Constantly updating it with projects, videos and other things :)
-  - Web development volunteer experience with Life Skills Software
-  - Tons and tons of Python programming
-  - Many different video editing projects
-  - Various other school projects and web development projects
+  - NVIDIA GPU programs with CUDA Toolkit
+  - Node.js package development for TA grading processes
+  - GitHub Copilot and Claude, experimenting with AI assistents/agents
+  - Many different video editing projects, some of which are commissions for various cool people 👀
+  - Other school projects
 - 🌱 I’m currently learning ...
+  - CUDA, Rust, Typst, AWS SDK
   - Snowflake SQL, Bash, Python, Redis, Next.js, Tailwind, TensorFlow, etc.
   - Docker & Docker Compose, as well as Traefik
   - In my second, and last Masters semester this Spring 2026:
